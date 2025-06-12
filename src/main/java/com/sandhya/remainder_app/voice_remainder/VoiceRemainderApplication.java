@@ -8,6 +8,7 @@ public class VoiceRemainderApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(VoiceRemainderApplication.class, args);
+		System.out.println("Voice Remainder Application is running...");
 	}
 
 }
